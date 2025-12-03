@@ -24,7 +24,10 @@ Camden Crapes
   fonts sounds and shield
 
 Emanuel St. Aubin
-  Shield
+  New Enemy
 
-Ryan Murphy
+Anna Grace Mock
   Up and Down sounds
+
+Emanuel St. Aubin and Ryan Murphy
+  New Music
